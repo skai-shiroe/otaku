@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447174504931",
+    "project_id": "otaku-skai",
+    "storage_bucket": "otaku-skai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447174504931:android:f73dbbb1738213514d70d6",
+        "android_client_info": {
+          "package_name": "com.example.otaku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZjeXnL6bnT86BV1Cz7qw6usHfQ9lpppo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
